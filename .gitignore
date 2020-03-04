@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+*seat_query_generator.py
+*show_adder.py
+*ticket_adder.py
